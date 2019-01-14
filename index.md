@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Boyi Qian's first CS 193 Lab
 ## github page
-### Header 3
+
 
 - Familiar with JAVA
 - Learn new knowledge about JAVA
